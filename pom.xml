@@ -78,7 +78,7 @@
 			</plugin>
 		</plugins>
 		<finalName>
-			emp-management-system.jar
+			emp-management-system
 		</finalName>
 	</build>
 
